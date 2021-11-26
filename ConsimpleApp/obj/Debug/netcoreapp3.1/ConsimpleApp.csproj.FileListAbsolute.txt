@@ -1,0 +1,31 @@
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.exe
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.deps.json
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.runtimeconfig.json
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.runtimeconfig.dev.json
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.dll
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.pdb
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.AssemblyInfoInputs.cache
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.AssemblyInfo.cs
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.csproj.CoreCompileInputs.cache
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.dll
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.pdb
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.genruntimeconfig.cache
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.csproj.AssemblyReference.cache
+Z:\workREST\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\workREST\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.csproj.CopyComplete
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.exe
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.deps.json
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.runtimeconfig.json
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.runtimeconfig.dev.json
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.dll
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\ConsimpleApp.pdb
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.csproj.AssemblyReference.cache
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.AssemblyInfoInputs.cache
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.AssemblyInfo.cs
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.csproj.CoreCompileInputs.cache
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.dll
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.pdb
+Z:\University\МТРПС (Реута)\ConsimpleApp\ConsimpleApp\obj\Debug\netcoreapp3.1\ConsimpleApp.genruntimeconfig.cache
